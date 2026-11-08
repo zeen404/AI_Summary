@@ -443,3 +443,14 @@ P(\text{crash} \mid \text{on-315})
 &= \frac{0.8}{0.7} \\
 & \approx 0.114
 \end{align*}$$
+
+---
+# Activation function
+### ช่วยให้ทำโจทย์ยากได้มากขึ้น
+
+
+# Convolutional neural networks
+### เป็นโครงข่ายที่ได้รับการออกแบบมาโดยเฉพาะเพื่อการประมวลผลข้อมูลที่มีโครงสร้างแบบกริด เช่น ภาพถ่ายวิดีโอ
+
+## Filters มี 2 แบบ linear,non-linear
+
